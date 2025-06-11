@@ -79,7 +79,7 @@ export default function Home() {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-gradient-to-r from-blue-200 to-purple-200 shadow-2xl">
                 <Image
-                  src="/placeholder.svg?height=320&width=320&text=Mukhiya+Vishwakarma+Professional+Portrait"
+                  src="/profile_image.png?height=320&width=320&text=Mukhiya+Vishwakarma+Professional+Portrait"
                   alt="Mukhiya Vishwakarma - Professional MW Fitter"
                   width={320}
                   height={320}
