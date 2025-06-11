@@ -59,8 +59,8 @@ export default function Home() {
               Mukhiya Vishwakarma
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              Master Craftsman & Mechanical Works Fitter carrying forward the legacy of Vishwakarma - the divine
-              architect and engineer of precision machinery
+            I’m an experienced Millwright Fitter with a strong background in installing, maintaining, and repairing 
+            industrial machinery. Known for precision, quick troubleshooting, and hands-on expertise, I ensure smooth and safe operations on the shop floor. I take pride in solving complex mechanical issues efficiently.
             </p>
             <div className="flex items-center gap-2 text-gray-500">
               <MapPin className="h-4 w-4 text-blue-500" />
@@ -349,13 +349,13 @@ export default function Home() {
                   <div className="p-2 bg-gradient-to-br from-green-400 to-blue-500 rounded-full">
                     <Phone className="h-4 w-4 text-white" />
                   </div>
-                  <span className="text-gray-700">+91 98XXXXXXXX</span>
+                  <span className="text-gray-700">+91 9340777203</span>
                 </div>
                 <div className="flex items-center gap-3 p-3 bg-white rounded-lg shadow-sm">
                   <div className="p-2 bg-gradient-to-br from-blue-400 to-purple-500 rounded-full">
                     <Mail className="h-4 w-4 text-white" />
                   </div>
-                  <span className="text-gray-700">mukhiya.vishwakarma@sgtps.co.in</span>
+                  <span className="text-gray-700">mukhiyag960@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3 p-3 bg-white rounded-lg shadow-sm">
                   <div className="p-2 bg-gradient-to-br from-orange-400 to-red-500 rounded-full">
